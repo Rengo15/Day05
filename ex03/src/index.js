@@ -3,7 +3,7 @@ function main(){
 
     // Only change code above this line
 
-    var myString = "\nFirstLine\n\tSecondLine\nThirdLine";
+    var myString = "\nFirstLine\n\t\\SecondLine\nThirdLine";
 
     return myString;
 }
